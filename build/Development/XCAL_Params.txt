@@ -1,0 +1,7 @@
+# COMMAND PARAMETER INPUT FILE FOR XCAL SEUP
+X_Center=0.5 						#0 - 1.0 in percentage of x, y, or z dimension
+Y_Center=0.5
+Z_Center=0.33
+XML_Filename=XCAL_RESULTS.xml
+XML_OutputFolder=
+# this is an example comment
